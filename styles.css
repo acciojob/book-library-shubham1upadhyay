@@ -4,11 +4,18 @@ body{
 
 h1{text-align:center;font-family:cursive;}
 h2{font-family:cursive; font-weight:bolder;text-align:left;}
-#author{margin-top:-15px; color:#777777}
+#author{margin-top:-15px; color:#777777;text-align:left;}
 #price-block{background-color:#2ecc71;color:white; text-align:center; font-weight:bolder}
 .book-library{
-	background-color: rgb(46, 204, 113);
+	background-color: #ffff;
 	padding:10px;
+}
+.parent{
+	background-color:#f8f1f1;
+	margin:30px;
+/* 	border:1px grey solid; */
+	border-radius:10px;
+	padding:5px;
 }
 .book{
 	margin-top:20px;
