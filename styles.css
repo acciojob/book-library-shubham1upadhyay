@@ -10,4 +10,5 @@ body{
 .price{
 	background-color:rgb(46, 204, 113);
 	color:white;
+	border-radius:10px;
 }
